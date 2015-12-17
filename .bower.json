@@ -14,7 +14,12 @@
     "es6-shim"
   ],
   "license": "WTFPL",
-  "_release": "1.0.0",  
+  "_release": "1.0.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "1.0.0",
+    "commit": "68147cf22e966dd2da2feb2e9c5af95074cf83a2"
+  },  
   "_source": "git://github.com/Mickey-P/Array.prototype.filter.git",
   "_target": "1.0.0",
   "_originalSource": "Array.prototype.filter"
