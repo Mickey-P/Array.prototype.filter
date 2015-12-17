@@ -1,0 +1,17 @@
+{
+  "name": "Array.prototype.filter",
+  "main": "index.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Mickey-P/Array.prototype.filter",
+  "authors": [
+    "Michael Pozhigan"
+  ],
+  "description": "Array.prototype.filter ES6 polyfill.",
+  "keywords": [
+    "Array.prototype.filter",
+    "filter",
+    "es6",
+    "es6-shim"
+  ],
+  "license": "WTFPL"  
+}
