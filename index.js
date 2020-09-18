@@ -21,7 +21,7 @@
         }
 
         var list = Object(this);
-        var length = Math.max(0, list.length) >>> 0; // ES.ToUint32;
+        var length = Math.max(0, list.length) >>> 0; // hack: ES.ToUint32;
 
         var resultArray = [];
         var thisArg = arguments.length > 1 ? arguments[1] : undefined;
